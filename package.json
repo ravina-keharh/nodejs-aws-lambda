@@ -1,0 +1,19 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "nodejsappwithterraform",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testCoverage": "jest --coverage"
+  },
+  "keywords": [
+    "bmi"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "jest-html-reporter": "^3.4.1"
+  }
+}
